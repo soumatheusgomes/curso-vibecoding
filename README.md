@@ -6,7 +6,7 @@ Prompts em português para criar e cuidar de sistemas com inteligência artifici
 
 1. Encontre o prompt pelo tema na tabela abaixo.
 2. Abra o link e copie o bloco do prompt.
-3. Substitua os campos entre colchetes pelo contexto do seu projeto.
+3. Quando houver campos entre colchetes, substitua pelo contexto do seu projeto. O guia de deploy já usa padrões e descoberta automática, sem preenchimento prévio.
 4. Envie o bloco na conversa do agente, com a pasta da sua aplicação aberta. Confira em cada guia se a tarefa executa mudanças ou entrega uma revisão.
 
 ## Padrão de início: Brainstorming do Superpowers
@@ -29,7 +29,7 @@ uma instalação nova em que a skill ainda não esteja disponível, sem simular 
 | Desenvolvimento de sistemas | [Prompt principal de desenvolvimento](prompts/desenvolvimento/prompt-principal-de-desenvolvimento.md) | Discutir um pedido, planejar, desenvolver com TDD, realizar cinco revisões e publicar na main. |
 | Desenvolvimento de sistemas | [Aula 3.1: criar a estrutura do projeto com /brainstorm](prompts/desenvolvimento/criar-estrutura-do-projeto.md) | Descrever o projeto e preparar a base técnica antes de implementar as funcionalidades. |
 | Sistemas de design | [Aula 4.3: aplicar o sistema de design no projeto](prompts/design/aplicar-sistema-de-design.md) | Adaptar uma exportação do Claude Design e integrar componentes, tokens e referências ao projeto. |
-| Publicação | [Configurar o deploy: aplicação, banco, domínio e HTTPS](prompts/deploy/configurar-e-publicar-aplicacao.md) | Publicar com DigitalOcean App Platform, Supabase e Cloudflare ou provedores escolhidos, com retomada após autenticação. |
+| Publicação | [Configurar o deploy: aplicação, banco, domínio e HTTPS](prompts/deploy/configurar-e-publicar-aplicacao.md) | Configurar produção sem formulário inicial e deixar o deploy automático a cada push na main. |
 
 ## Guias práticos para projetos existentes
 
