@@ -20,6 +20,11 @@ por teclado e utilizar telas menores. O resultado é uma revisão com evidência
 ## Prompt
 
 ```
+Comece usando a skill superpowers:brainstorming. Leia e siga suas instruções para alinhar contexto,
+objetivo, escopo, restrições e critérios de conclusão antes de executar esta tarefa.
+Respeite as autorizações já concedidas e os limites abaixo, sem ampliar o escopo nem repetir perguntas respondidas.
+Se a skill estiver indisponível, informe o impedimento e não simule seu uso.
+
 Faça uma revisão de UI/UX desta aplicação usando Agent Browser para navegar de verdade.
 Endereço autorizado: [URL LOCAL OU DE TESTE].
 Jornadas: [TAREFAS E RESULTADOS ESPERADOS].

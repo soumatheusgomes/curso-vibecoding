@@ -20,6 +20,11 @@ as dependências entre módulos. A revisão entrega um diagnóstico e um plano d
 ## Prompt
 
 ```
+Comece usando a skill superpowers:brainstorming. Leia e siga suas instruções para alinhar contexto,
+objetivo, escopo, restrições e critérios de conclusão antes de executar esta tarefa.
+Respeite as autorizações já concedidas e os limites abaixo, sem ampliar o escopo nem repetir perguntas respondidas.
+Se a skill estiver indisponível, informe o impedimento e não simule seu uso.
+
 Revise a arquitetura deste projeto no escopo: [MÓDULOS OU PROJETO INTEIRO].
 Dificuldade observada: [PROBLEMA DE MANUTENÇÃO OU AVALIAR OS FLUXOS PRINCIPAIS].
 Restrições: [CONTRATOS E LIMITES A PRESERVAR].

@@ -24,6 +24,11 @@ poderiam justificar uma transição de SQLite para PostgreSQL.
 ## Prompt
 
 ```
+Comece usando a skill superpowers:brainstorming. Leia e siga suas instruções para alinhar contexto,
+objetivo, escopo, restrições e critérios de conclusão antes de executar esta tarefa.
+Respeite as autorizações já concedidas e os limites abaixo, sem ampliar o escopo nem repetir perguntas respondidas.
+Se a skill estiver indisponível, informe o impedimento e não simule seu uso.
+
 Avalie oportunidades de evolução técnica neste projeto.
 Objetivo ou dificuldade: [PROBLEMA OU OPORTUNIDADE].
 Uso e evidências conhecidos: [VOLUME, CONCORRÊNCIA, TEMPOS OU INFORMAÇÕES AINDA DESCONHECIDAS].

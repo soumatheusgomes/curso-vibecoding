@@ -34,12 +34,18 @@ arquivo depende dela. Se alguma validação necessária estiver bloqueada, o pro
 ## Prompt
 
 ```
+Comece usando a skill superpowers:brainstorming. Leia e siga suas instruções para alinhar contexto,
+objetivo, escopo, restrições e critérios de conclusão antes de executar esta tarefa.
+Respeite as autorizações já concedidas e os limites abaixo, sem ampliar o escopo nem repetir perguntas respondidas.
+Se a skill estiver indisponível, informe o impedimento e não simule seu uso.
+
 Na raiz existe a pasta design-system-export, uma exportação bruta do Claude Design. Use esse material
 para criar e integrar um sistema de design em design-system, adaptado ao projeto e contendo apenas
 o necessário.
 
-Execute de ponta a ponta, sem confirmações intermediárias. Em ambiguidades, preserve o que já funciona
-e registre a decisão no relatório final. Só interrompa diante de um impedimento real.
+Após o alinhamento inicial pelo Brainstorming, execute de ponta a ponta sem repetir confirmações já concedidas.
+Em ambiguidades técnicas reversíveis, preserve o que já funciona e registre a decisão no relatório final.
+Só interrompa diante de um impedimento real.
 
 ## 1. Diagnóstico
 

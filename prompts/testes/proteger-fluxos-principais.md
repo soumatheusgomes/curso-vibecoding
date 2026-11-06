@@ -19,6 +19,11 @@ O foco são resultados para o usuário e regras de negócio.
 ## Prompt
 
 ```
+Comece usando a skill superpowers:brainstorming. Leia e siga suas instruções para alinhar contexto,
+objetivo, escopo, restrições e critérios de conclusão antes de executar esta tarefa.
+Respeite as autorizações já concedidas e os limites abaixo, sem ampliar o escopo nem repetir perguntas respondidas.
+Se a skill estiver indisponível, informe o impedimento e não simule seu uso.
+
 Crie testes confiáveis para os seguintes fluxos deste projeto: [FLUXOS E RESULTADOS ESPERADOS].
 Proteja especialmente contra: [ERROS, PERMISSÕES OU LIMITES IMPORTANTES].
 

@@ -13,8 +13,8 @@ depois, uma por vez.
 
 ## Como usar
 
-1. Use `/brainstorm`, conforme mostrado na aula, para organizar a ideia: problema, público, fluxos e
-   limites da primeira versão. A disponibilidade desse comando depende da configuração do agente.
+1. O bloco já solicita o Brainstorming do Superpowers para organizar a ideia: problema, público, fluxos
+   e limites da primeira versão. Não é necessário iniciar a mesma etapa separadamente com `/brainstorm`.
 2. Substitua todos os campos entre colchetes na seção `PROJETO` pelas informações da sua aplicação.
 3. Revise os requisitos técnicos do prompt e adapte os que forem diferentes no seu projeto.
 4. Cole o bloco completo no agente, dentro da pasta da aplicação, e peça a execução.
@@ -45,6 +45,11 @@ Use o prompt com os campos preenchidos e as escolhas técnicas ajustadas antes d
 ## Prompt
 
 ```
+Comece usando a skill superpowers:brainstorming. Leia e siga suas instruções para alinhar contexto,
+objetivo, escopo, restrições e critérios de conclusão antes de executar esta tarefa.
+Respeite as autorizações já concedidas e os limites abaixo, sem ampliar o escopo nem repetir perguntas respondidas.
+Se a skill estiver indisponível, informe o impedimento e não simule seu uso.
+
 Leia https://raw.githubusercontent.com/soumatheusgomes/vibe-coding-toolkit/main/docs/prompts/11-next-project-bootstrap.md
 e execute integralmente a seção “Prompt” no diretório atual.
 

@@ -20,6 +20,11 @@ o que a aplicação faz, os dados que protege e quem pode acessar cada operaçã
 ## Prompt
 
 ```
+Comece usando a skill superpowers:brainstorming. Leia e siga suas instruções para alinhar contexto,
+objetivo, escopo, restrições e critérios de conclusão antes de executar esta tarefa.
+Respeite as autorizações já concedidas e os limites abaixo, sem ampliar o escopo nem repetir perguntas respondidas.
+Se a skill estiver indisponível, informe o impedimento e não simule seu uso.
+
 Revise e corrija falhas de segurança confirmadas neste projeto local.
 Escopo: [APLICAÇÃO OU MÓDULOS A REVISAR].
 Papéis e acessos esperados: [QUEM PODE FAZER O QUÊ].

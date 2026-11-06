@@ -21,6 +21,15 @@ podem depender da sua intervenção.
 ## Prompt
 
 ```
+Comece usando a skill superpowers:brainstorming. Leia e siga suas instruções para alinhar contexto,
+objetivo, escopo, restrições e critérios de conclusão antes de executar esta tarefa.
+Respeite as autorizações já concedidas e os limites abaixo, sem ampliar o escopo nem repetir perguntas respondidas.
+Se a skill estiver indisponível, informe o impedimento e não simule seu uso.
+
+Em um ambiente novo sem Superpowers, faça primeiro apenas o diagnóstico, instale os pré-requisitos mínimos
+e habilite Superpowers pelos mecanismos oficiais. Assim que a skill estiver disponível, retome o Brainstorming
+antes das demais alterações. Se houver incompatibilidade ou bloqueio, informe o que impede essa etapa.
+
 # Instalar, configurar, atualizar e otimizar o ambiente de desenvolvimento
 
 Prepare este computador para desenvolvimento, principalmente com Node.js, e para uso do VS Code, Codex e

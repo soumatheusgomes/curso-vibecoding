@@ -20,6 +20,11 @@ após a mudança, considerando as mesmas condições de teste.
 ## Prompt
 
 ```
+Comece usando a skill superpowers:brainstorming. Leia e siga suas instruções para alinhar contexto,
+objetivo, escopo, restrições e critérios de conclusão antes de executar esta tarefa.
+Respeite as autorizações já concedidas e os limites abaixo, sem ampliar o escopo nem repetir perguntas respondidas.
+Se a skill estiver indisponível, informe o impedimento e não simule seu uso.
+
 Investigue e corrija a lentidão neste fluxo: [TELA, CONSULTA OU TAREFA].
 Sintoma e momento: [QUANDO E COMO A LENTIDÃO ACONTECE].
 Dados e carga conhecidos: [CONDIÇÕES DE USO OU A MEDIR].

@@ -21,6 +21,11 @@ O agente deve reproduzir o problema antes de escolher a correção.
 ## Prompt
 
 ```
+Comece usando a skill superpowers:brainstorming. Leia e siga suas instruções para alinhar contexto,
+objetivo, escopo, restrições e critérios de conclusão antes de executar esta tarefa.
+Respeite as autorizações já concedidas e os limites abaixo, sem ampliar o escopo nem repetir perguntas respondidas.
+Se a skill estiver indisponível, informe o impedimento e não simule seu uso.
+
 Investigue e corrija o seguinte erro neste projeto.
 Erro observado: [DESCREVA O SINTOMA].
 Resultado esperado: [DESCREVA O COMPORTAMENTO CORRETO].

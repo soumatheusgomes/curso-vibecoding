@@ -9,13 +9,24 @@ Prompts em português para criar e cuidar de sistemas com inteligência artifici
 3. Substitua os campos entre colchetes pelo contexto do seu projeto.
 4. Envie o bloco na conversa do agente, com a pasta da sua aplicação aberta. Confira em cada guia se a tarefa executa mudanças ou entrega uma revisão.
 
+## Padrão de início: Brainstorming do Superpowers
+
+Todos os prompts começam solicitando a skill `superpowers:brainstorming` dentro do próprio bloco para copiar.
+O agente deve ler e seguir a skill para alinhar contexto, objetivo, escopo, restrições e critérios de conclusão
+antes de executar a tarefa, respeitando as autorizações já concedidas e os limites de cada guia.
+
+O comando `/brainstorm` pode aparecer como atalho no agente, conforme sua configuração. O bloco já contém
+a instrução de início; não é necessário repetir a mesma etapa manualmente.
+
+Superpowers precisa estar disponível no agente. O guia de preparação do ambiente explica como tratar
+uma instalação nova em que a skill ainda não esteja disponível, sem simular seu uso.
+
 ## Prompts disponíveis
 
 | Tema | Prompt | Quando usar |
 | --- | --- | --- |
 | Preparação do ambiente | [Preparar o ambiente de desenvolvimento](prompts/ambiente/preparar-ambiente-de-desenvolvimento.md) | Instalar, configurar e validar as ferramentas da aula em um computador novo ou existente. |
 | Desenvolvimento de sistemas | [Aula 3.1: criar a estrutura do projeto com /brainstorm](prompts/desenvolvimento/criar-estrutura-do-projeto.md) | Descrever o projeto e preparar a base técnica antes de implementar as funcionalidades. |
-| Desenvolvimento de sistemas | [Planejar e desenvolver uma funcionalidade](prompts/desenvolvimento/planejar-e-desenvolver-funcionalidade.md) | Explorar ideias e implementar uma funcionalidade simples. |
 | Sistemas de design | [Aula 4.3: aplicar o sistema de design no projeto](prompts/design/aplicar-sistema-de-design.md) | Adaptar uma exportação do Claude Design e integrar componentes, tokens e referências ao projeto. |
 
 ## Guias práticos para projetos existentes
