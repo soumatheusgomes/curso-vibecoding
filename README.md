@@ -13,10 +13,11 @@ Prompts em português para criar e cuidar de sistemas com inteligência artifici
 | Tema | Prompt | Quando usar |
 | --- | --- | --- |
 | Preparação do ambiente | [Preparar o ambiente de desenvolvimento](prompts/ambiente/preparar-ambiente-de-desenvolvimento.md) | Instalar, configurar e validar as ferramentas da aula em um computador novo ou existente. |
+| Desenvolvimento de sistemas | [Aula 3.1: criar a estrutura do projeto com /brainstorm](prompts/desenvolvimento/criar-estrutura-do-projeto.md) | Descrever o projeto e preparar a base técnica antes de implementar as funcionalidades. |
 | Desenvolvimento de sistemas | [Planejar e desenvolver uma funcionalidade](prompts/desenvolvimento/planejar-e-desenvolver-funcionalidade.md) | Explorar ideias e implementar uma funcionalidade simples. |
 
 ## Organização
 
 Os prompts ficam na pasta `prompts`, separados por tema. Cada arquivo traz um título, uma orientação de uso e um bloco para copiar.
 
-O guia começa com a preparação do ambiente e um exemplo de desenvolvimento. Os próximos prompts poderão abordar sistemas de design, manutenção e segurança.
+O guia reúne a preparação do ambiente, a criação da estrutura do projeto e um exemplo de desenvolvimento. Os próximos prompts poderão abordar sistemas de design, manutenção e segurança.
