@@ -43,12 +43,19 @@
 
 - [x] Atualizar o README.md com os oito links e orientação para escolher o guia.
 - [x] Verificar links relativos, campos preenchíveis, blocos completos e preservação das aulas anteriores.
-- [ ] Solicitar uma revisão independente e corrigir problemas relevantes.
-- [ ] Executar `git diff --check`, criar o commit e enviar ao GitHub.
-- [ ] Comparar o commit e o conteúdo publicados com os arquivos locais.
+- [x] Solicitar uma revisão independente e corrigir problemas relevantes.
+- [x] Executar `git diff --check`, criar o commit e enviar ao GitHub.
+- [x] Comparar o commit e o conteúdo publicados com os arquivos locais.
 
 ## Decisões de execução
 
 - Escopo e publicação já aprovados; continuar sem novas confirmações rotineiras.
 - Somente documentação: verificar os artefatos diretamente, sem criar testes de aplicação ou dependências.
 - Manter o fluxo existente de publicação em `main`, com seleção explícita dos arquivos do trabalho.
+
+## Resultado
+
+Oito guias novos, 23 campos preenchíveis e quatro guias anteriores preservados. Links relativos,
+blocos completos e índice verificados. Revisão independente sem achados que exijam alteração.
+Publicação do conteúdo conferida no commit `2c9a3e3`, com os 15 arquivos idênticos por hash.
+A execução dos prompts em aplicações reais permanece fora desta validação documental.
