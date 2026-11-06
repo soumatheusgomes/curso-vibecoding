@@ -29,6 +29,7 @@ uma instalação nova em que a skill ainda não esteja disponível, sem simular 
 | Desenvolvimento de sistemas | [Prompt principal de desenvolvimento](prompts/desenvolvimento/prompt-principal-de-desenvolvimento.md) | Discutir um pedido, planejar, desenvolver com TDD, realizar cinco revisões e publicar na main. |
 | Desenvolvimento de sistemas | [Aula 3.1: criar a estrutura do projeto com /brainstorm](prompts/desenvolvimento/criar-estrutura-do-projeto.md) | Descrever o projeto e preparar a base técnica antes de implementar as funcionalidades. |
 | Sistemas de design | [Aula 4.3: aplicar o sistema de design no projeto](prompts/design/aplicar-sistema-de-design.md) | Adaptar uma exportação do Claude Design e integrar componentes, tokens e referências ao projeto. |
+| Publicação | [Configurar o deploy: aplicação, banco, domínio e HTTPS](prompts/deploy/configurar-e-publicar-aplicacao.md) | Publicar com DigitalOcean App Platform, Supabase e Cloudflare ou provedores escolhidos, com retomada após autenticação. |
 
 ## Guias práticos para projetos existentes
 
@@ -53,4 +54,4 @@ Os demais guias executam a tarefa descrita, respeitando os limites e as verifica
 
 Os prompts ficam na pasta `prompts`, separados por tema. Cada arquivo traz um título, uma orientação de uso e um bloco para copiar.
 
-Os temas incluem ambiente, desenvolvimento, sistemas de design, manutenção, arquitetura, testes, segurança, desempenho e evolução técnica.
+Os temas incluem ambiente, desenvolvimento, sistemas de design, publicação, manutenção, arquitetura, testes, segurança, desempenho e evolução técnica.
