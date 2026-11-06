@@ -26,6 +26,7 @@ uma instalação nova em que a skill ainda não esteja disponível, sem simular 
 | Tema | Prompt | Quando usar |
 | --- | --- | --- |
 | Preparação do ambiente | [Preparar o ambiente de desenvolvimento](prompts/ambiente/preparar-ambiente-de-desenvolvimento.md) | Instalar, configurar e validar as ferramentas da aula em um computador novo ou existente. |
+| Desenvolvimento de sistemas | [Prompt principal de desenvolvimento](prompts/desenvolvimento/prompt-principal-de-desenvolvimento.md) | Discutir um pedido, planejar, desenvolver com TDD, realizar cinco revisões e publicar na main. |
 | Desenvolvimento de sistemas | [Aula 3.1: criar a estrutura do projeto com /brainstorm](prompts/desenvolvimento/criar-estrutura-do-projeto.md) | Descrever o projeto e preparar a base técnica antes de implementar as funcionalidades. |
 | Sistemas de design | [Aula 4.3: aplicar o sistema de design no projeto](prompts/design/aplicar-sistema-de-design.md) | Adaptar uma exportação do Claude Design e integrar componentes, tokens e referências ao projeto. |
 
