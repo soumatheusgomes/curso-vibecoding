@@ -15,9 +15,10 @@ Prompts em português para criar e cuidar de sistemas com inteligência artifici
 | Preparação do ambiente | [Preparar o ambiente de desenvolvimento](prompts/ambiente/preparar-ambiente-de-desenvolvimento.md) | Instalar, configurar e validar as ferramentas da aula em um computador novo ou existente. |
 | Desenvolvimento de sistemas | [Aula 3.1: criar a estrutura do projeto com /brainstorm](prompts/desenvolvimento/criar-estrutura-do-projeto.md) | Descrever o projeto e preparar a base técnica antes de implementar as funcionalidades. |
 | Desenvolvimento de sistemas | [Planejar e desenvolver uma funcionalidade](prompts/desenvolvimento/planejar-e-desenvolver-funcionalidade.md) | Explorar ideias e implementar uma funcionalidade simples. |
+| Sistemas de design | [Aula 4.3: aplicar o sistema de design no projeto](prompts/design/aplicar-sistema-de-design.md) | Adaptar uma exportação do Claude Design e integrar componentes, tokens e referências ao projeto. |
 
 ## Organização
 
 Os prompts ficam na pasta `prompts`, separados por tema. Cada arquivo traz um título, uma orientação de uso e um bloco para copiar.
 
-O guia reúne a preparação do ambiente, a criação da estrutura do projeto e um exemplo de desenvolvimento. Os próximos prompts poderão abordar sistemas de design, manutenção e segurança.
+O guia reúne a preparação do ambiente, a criação da estrutura do projeto, um exemplo de desenvolvimento e a integração de sistemas de design. Os próximos prompts poderão abordar manutenção e segurança.
