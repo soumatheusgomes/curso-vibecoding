@@ -33,7 +33,7 @@ uma instalação nova em que a skill ainda não esteja disponível, sem simular 
 
 ## Guias práticos para projetos existentes
 
-Oito prompts completos para manter e evoluir uma aplicação. Escolha pelo problema que precisa resolver;
+Prompts completos para manter e evoluir uma aplicação. Escolha pelo problema que precisa resolver;
 cada guia explica o que adaptar e o resultado esperado.
 
 | Tema | Prompt | Quando usar |
@@ -46,12 +46,13 @@ cada guia explica o que adaptar e o resultado esperado.
 | Sistemas de design | [Revisar UI/UX com Agent Browser](prompts/design/revisar-interface-com-agent-browser.md) | Navegar nas jornadas reais e registrar problemas de uso, acessibilidade e responsividade. |
 | Desempenho | [Medir e corrigir lentidão](prompts/desempenho/investigar-e-corrigir-lentidao.md) | Localizar um gargalo e comparar o resultado da melhoria nas mesmas condições. |
 | Planejamento | [Avaliar evoluções técnicas](prompts/planejamento/avaliar-evolucao-tecnica.md) | Decidir se filas, cache, outro banco ou uma solução existente atendem à necessidade. |
+| Inteligência artificial | [Onde o Jev faz sentido no meu projeto?](prompts/planejamento/avaliar-adocao-do-jev.md) | Avaliar a adoção do Jev e gerar um relatório HTML com evidências e próximos passos, sem implementar. |
 
-Arquitetura, UI/UX e evolução técnica entregam revisões e recomendações para a próxima decisão.
+Arquitetura, UI/UX, evolução técnica e adoção do Jev entregam revisões e recomendações para a próxima decisão.
 Os demais guias executam a tarefa descrita, respeitando os limites e as verificações de cada prompt.
 
 ## Organização
 
 Os prompts ficam na pasta `prompts`, separados por tema. Cada arquivo traz um título, uma orientação de uso e um bloco para copiar.
 
-Os temas incluem ambiente, desenvolvimento, sistemas de design, publicação, manutenção, arquitetura, testes, segurança, desempenho e evolução técnica.
+Os temas incluem ambiente, desenvolvimento, sistemas de design, publicação, manutenção, arquitetura, testes, segurança, desempenho, evolução técnica e adoção de IA.
