@@ -56,6 +56,7 @@ Os demais guias executam a tarefa descrita, respeitando os limites e as verifica
 | Tema | Prompt | Quando usar |
 | --- | --- | --- |
 | Créditos e benefícios | [Buscar créditos de IA e benefícios para startups](prompts/dicas/buscar-creditos-de-ia.md) | Encontrar programas elegíveis, realizar inscrições e criar uma rotina de acompanhamento quando disponível. |
+| Investimento em startups | [Preparar candidatura ao Startup Qatar Investment Program](prompts/dicas/candidatar-startup-qatar.md) | Conversar sobre a empresa ou ideia, preparar os documentos e preencher a inscrição com assistência no navegador. |
 
 ## Organização
 
