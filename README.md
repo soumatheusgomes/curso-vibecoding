@@ -51,8 +51,14 @@ cada guia explica o que adaptar e o resultado esperado.
 Arquitetura, UI/UX, evolução técnica e adoção do Jev entregam revisões e recomendações para a próxima decisão.
 Os demais guias executam a tarefa descrita, respeitando os limites e as verificações de cada prompt.
 
+## Dicas
+
+| Tema | Prompt | Quando usar |
+| --- | --- | --- |
+| Créditos e benefícios | [Buscar créditos de IA e benefícios para startups](prompts/dicas/buscar-creditos-de-ia.md) | Encontrar programas elegíveis, realizar inscrições e criar uma rotina de acompanhamento quando disponível. |
+
 ## Organização
 
 Os prompts ficam na pasta `prompts`, separados por tema. Cada arquivo traz um título, uma orientação de uso e um bloco para copiar.
 
-Os temas incluem ambiente, desenvolvimento, sistemas de design, publicação, manutenção, arquitetura, testes, segurança, desempenho, evolução técnica e adoção de IA.
+Os temas incluem ambiente, desenvolvimento, sistemas de design, publicação, manutenção, arquitetura, testes, segurança, desempenho, evolução técnica, adoção de IA e dicas.
