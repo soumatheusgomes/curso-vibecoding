@@ -39,6 +39,13 @@ nuvem e benefícios tecnológicos para os quais eu ou minhas empresas sejamos el
 utilizáveis em APIs de IA, considerando valor, chance de aprovação, esforço e condições de uso.
 O resultado esperado são inscrições concluídas e benefícios confirmados, com evidências.
 
+Comece por OpenAI e Anthropic, com atenção a benefícios úteis para quem usa Codex ou Claude.
+Inclua também xAI, Google (Gemini e Google Cloud), NVIDIA, AWS, Vercel e Microsoft (Azure).
+Valide a existência dos programas e quais produtos cada benefício cobre. Diferencie créditos de API
+e nuvem de benefícios aplicáveis a planos ou uso de Claude e Codex.
+Antes de ampliar para outros provedores, pergunte se tenho interesse. Sem resposta, continue trabalhando
+nos prioritários. Mantenha esse foco nas rotinas futuras até eu autorizar a ampliação.
+
 ## Pesquisa e navegação
 
 Use o navegador e as ferramentas de automação disponíveis para buscar na internet, explorar páginas,
@@ -46,9 +53,9 @@ interagir com portais e executar os cadastros. Reaproveite sessões autenticadas
 Escolha ferramentas, estratégia e ordem de execução conforme a IA e o ambiente em uso.
 
 Combine buscas em português e inglês com scraping e extração de dados de páginas públicas, quando útil,
-respeitando os termos dos sites e os limites de acesso. Explore provedores, programas para startups,
-parceiros, aceleradoras, comunidades e iniciativas para desenvolvedores. Use essas fontes para descobrir
-oportunidades e valide ofertas, requisitos e links de inscrição nos canais oficiais atuais.
+respeitando os termos dos sites e os limites de acesso. Explore programas para startups, parceiros,
+aceleradoras, comunidades e iniciativas para desenvolvedores que ofereçam benefícios dos provedores
+prioritários ou de outros já autorizados. Valide ofertas, requisitos e links de inscrição nos canais oficiais atuais.
 
 Consulte o site informado para entender a empresa e preparar descrições fiéis ao que ela faz.
 Confirme elegibilidade, valores, validade, restrições e exigências de cartão ou cobrança. Diferencie
